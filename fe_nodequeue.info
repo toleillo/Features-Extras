@@ -1,0 +1,8 @@
+name = "FE nodequeue"
+description = "Build nodequeues as features."
+package = "Features extra"
+core = "7.x"
+
+dependencies[] = nodequeue
+dependencies[] = features
+dependencies[] = ctools
