@@ -1,0 +1,5 @@
+name = Feature Extras Profle
+description = Export profile field using features.
+package = Ideup
+dependencies[] = profile
+core = 6.x
